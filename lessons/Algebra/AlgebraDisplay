@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Algebra Topics for Engineers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .subject {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+        .subject h2 {
+            margin-top: 0;
+        }
+        .description {
+            margin: 10px 0;
+        }
+        .btn {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn-home {
+            background-color: #007bff;
+            margin: 20px 0;
+        }
+        .btn:hover {
+            background-color: #218838;
+        }
+        .btn-home:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Algebra Topics for Engineers</h1>
+
+    <a href="https://ryantschool.github.io/RyanTSchoolgithub.io/" class="btn btn-home">Home</a>
+
+    <div class="subject">
+        <h2>Linear Equations and Inequalities</h2>
+        <p class="description">Linear equations and inequalities establish the foundational relationships needed to understand engineering systems, such as circuits or mechanical structures.</p>
+        <a href="#" class="btn">Learn Linear Equations</a>
+    </div>
+
+    <div class="subject">
+        <h2>Polynomials and Factoring</h2>
+        <p class="description">Polynomials represent complex functions, and factoring is crucial in simplifying these for analysis in algorithms and system optimization.</p>
+        <a href="#" class="btn">Learn Polynomials and Factoring</a>
+    </div>
+
+    <div class="subject">
+        <h2>Rational Expressions and Equations</h2>
+        <p class="description">Rational expressions and equations assist in analyzing rates and relationships relevant to physics, economics, and dynamic systems.</p>
+        <a href="#" class="btn">Learn Rational Expressions</a>
+    </div>
+
+    <div class="subject">
+        <h2>Quadratic Equations</h2>
+        <p class="description">Quadratic equations solve problems with parabolic relationships, common in projectile motion, optimization, and control systems.</p>
+        <a href="#" class="btn">Learn Quadratic Equations</a>
+    </div>
+
+    <div class="subject">
+        <h2>Exponential and Logarithmic Functions</h2>
+        <p class="description">Exponential and logarithmic functions describe growth and decay, applicable to signal processing, population dynamics, and finance.</p>
+        <a href="#" class="btn">Learn Exponential and Logarithmic Functions</a>
+    </div>
+
+    <div class="subject">
+        <h2>Systems of Equations</h2>
+        <p class="description">Systems of equations solve multiple simultaneous equations, essential in understanding complex, interconnected systems.</p>
+        <a href="#" class="btn">Learn Systems of Equations</a>
+    </div>
+
+    <div class="subject">
+        <h2>Matrices and Determinants</h2>
+        <p class="description">Matrices represent systems efficiently, and determinants help assess solvability, important in linear algebra and graphics.</p>
+        <a href="#" class="btn">Learn Matrices and Determinants</a>
+    </div>
+
+    <div class="subject">
+        <h2>Complex Numbers</h2>
+        <p class="description">Complex numbers describe oscillatory behaviors and are key in control systems, signal processing, and more.</p>
+        <a href="#" class="btn">Learn Complex Numbers</a>
+    </div>
+
+    <div class="subject">
+        <h2>Functions and Graphs</h2>
+        <p class="description">Functions and graphs help visualize trends, interpret data, and identify relationships in engineering problem-solving.</p>
+        <a href="#" class="btn">Learn Functions and Graphs</a>
+    </div>
+
+</body>
+</html>
