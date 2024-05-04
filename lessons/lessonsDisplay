@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Engineering Math Prerequisites</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .subject {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+        .subject h2 {
+            margin-top: 0;
+        }
+        .description {
+            margin: 10px 0;
+        }
+        .btn {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Engineering Math Prerequisites</h1>
+
+    <div class="subject">
+        <h2>Algebra</h2>
+        <p class="description">Algebra involves the study of equations and functions, providing a basis for solving various mathematical problems essential in engineering calculations.</p>
+        <a href="#" class="btn">Learn Algebra</a>
+    </div>
+
+    <div class="subject">
+        <h2>Trigonometry</h2>
+        <p class="description">Trigonometry focuses on relationships between the sides and angles of triangles, which are critical in understanding waves, oscillations, and other engineering phenomena.</p>
+        <a href="#" class="btn">Learn Trigonometry</a>
+    </div>
+
+    <div class="subject">
+        <h2>Geometry</h2>
+        <p class="description">Geometry covers the properties of shapes, sizes, and spaces, which are key in designing and analyzing structures and machinery.</p>
+        <a href="#" class="btn">Learn Geometry</a>
+    </div>
+
+    <div class="subject">
+        <h2>Precalculus</h2>
+        <p class="description">Precalculus helps bridge the gap between algebra and calculus, with concepts like complex numbers, series, and analytic geometry being crucial for higher-level studies.</p>
+        <a href="#" class="btn">Learn Precalculus</a>
+    </div>
+
+    <div class="subject">
+        <h2>Calculus</h2>
+        <p class="description">Calculus helps engineers model and analyze change. It includes both differentiation and integration, used for solving dynamic systems and problems in physics.</p>
+        <a href="#" class="btn">Learn Calculus</a>
+    </div>
+
+    <div class="subject">
+        <h2>Linear Algebra</h2>
+        <p class="description">Linear algebra involves vector spaces and matrices, useful in many engineering applications like signal processing and structural analysis.</p>
+        <a href="#" class="btn">Learn Linear Algebra</a>
+    </div>
+
+    <div class="subject">
+        <h2>Differential Equations</h2>
+        <p class="description">Differential equations describe dynamic systems and phenomena, enabling engineers to model physical processes like fluid flow and electrical circuits.</p>
+        <a href="#" class="btn">Learn Differential Equations</a>
+    </div>
+
+    <div class="subject">
+        <h2>Statistics and Probability</h2>
+        <p class="description">Statistics and probability are crucial in analyzing data and managing uncertainty in engineering design and decision-making.</p>
+        <a href="#" class="btn">Learn Statistics and Probability</a>
+    </div>
+
+    <div class="subject">
+        <h2>Numerical Methods</h2>
+        <p class="description">Numerical methods provide computational techniques for approximating complex problems, essential for solving engineering challenges in the real world.</p>
+        <a href="#" class="btn">Learn Numerical Methods</a>
+    </div>
+
+    <div class="subject">
+        <h2>Discrete Mathematics</h2>
+        <p class="description">Discrete mathematics covers logic, combinatorics, graph theory, and algorithms, foundational for understanding optimization and computer science in engineering.</p>
+        <a href="#" class="btn">Learn Discrete Mathematics</a>
+    </div>
+
+</body>
+</html>
