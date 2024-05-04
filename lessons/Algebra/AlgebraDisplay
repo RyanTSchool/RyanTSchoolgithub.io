@@ -51,7 +51,7 @@
     <div class="subject">
         <h2>Linear Equations and Inequalities</h2>
         <p class="description">Linear equations and inequalities establish the foundational relationships needed to understand engineering systems, such as circuits or mechanical structures.</p>
-        <a href="#" class="btn">Learn Linear Equations</a>
+        <a href="lessons/Algebra/LiteralEquations.html" class="btn">Learn Linear Equations</a>
     </div>
 
     <div class="subject">
